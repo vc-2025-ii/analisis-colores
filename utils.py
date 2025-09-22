@@ -1,0 +1,1 @@
+# Incluye aquí las funciones implementadas
